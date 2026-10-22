@@ -1,8 +1,8 @@
 class Glance < Formula
   desc "Live Apple silicon system monitor for the terminal"
   homepage "https://github.com/TianMingNanWei/glance-cli"
-  url "https://github.com/TianMingNanWei/glance-cli/releases/download/v0.1.0/glance-0.1.0-macos-universal.tar.gz"
-  sha256 "50c6b49e84439004076136a8ac74bb2c32f44ef540e34fd28d7a4341af5a0832"
+  url "https://github.com/TianMingNanWei/glance-cli/releases/download/v0.1.1/glance-0.1.1-macos-universal.tar.gz"
+  sha256 "e7004f0fcc6b90430b15ab116b12b1674acab225139b023b4c16d080e161f1fa"
   license "MIT"
 
   livecheck do
